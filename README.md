@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=flat&logo=mastodon&logoColor=white)](http://mastodon.social/@castrolem)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([linkedin](https://www.linkedin.com/in/castrolem/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/castrolem/)
 
 
 I’m an experienced web and app developer living in Andorra 🇦🇩 — I love working in the realm between design and code. Some things that makes me excited are JavaScript frameworks (yeah), CSS, Design Systems, Animation, crafting excellent component APIs and making interfaces feel fun and personal.
